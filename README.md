@@ -1,5 +1,5 @@
 # ZTM-smart-brain-front-end-deploying-heroku
-這是ZTM課程第28章，把前端發佈到人臉辨識的編碼  
+這是ZTM課程第28章，把前端發佈到人臉辨識的編碼（已串接後端與Database透過Heroku）
 
 ---
 成果連結：[點這裡](https://smart-brain-front-end-deploy.herokuapp.com/ "title")  
